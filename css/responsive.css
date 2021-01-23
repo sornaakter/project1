@@ -1,0 +1,23 @@
+@media(max-width: 1199px){
+	/*lg*/
+}
+@media(max-width: 991px){
+	/*md*/
+}
+@media(max-width: 767px){
+	/*sm*/
+	.col-sm-6 {
+    flex: 0 0 auto;
+    width: 50%;
+    margin-bottom: 20px;
+	}
+	.heading h1 {
+    font-size: 43px;
+    line-height: 60px;
+   
+    margin-top: 20px;
+	}
+}
+@media(max-width:576px){
+	/*xsm*/
+}
